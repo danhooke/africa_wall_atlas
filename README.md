@@ -4,6 +4,8 @@ Updating a project from November 2022, recreating a meteorological atlas of Afri
 
 See [wall_atlas_of_africa.ipynb](wall_atlas_of_africa.ipynb) for the full workflow.
 
+Still a WIP.
+
 **Original version:**
 ![original map](figures/Wall_Map_target.png)
 
