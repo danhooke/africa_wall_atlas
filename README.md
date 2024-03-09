@@ -6,8 +6,6 @@ See [wall_atlas_of_africa.ipynb](wall_atlas_of_africa.ipynb) for the full workfl
 
 Still a WIP.
 
-**Original version:**
-![original map](figures/Wall_Map_target.png)
+**Original version** and **recreated version.**
 
-**Recreated version:**
-![recreated map](figures/map_v0.png)
+<img src="figures/Wall_Map_target.png" width="45%" alt="photo of original map"><img src="figures/map_v0_2.png" width="45%" alt="image of matplotlib recreation">
