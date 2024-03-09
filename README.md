@@ -8,5 +8,4 @@ Still a WIP.
 
 **Original version** and **recreated version.**
 
-<img src="figures/Wall_Map_target.png" width="45%" alt="photo of original map">
-<img src="figures/map_v0.png" width="45%" alt="image of matplotlib recreation">
+<img src="figures/Wall_Map_target.png" width="45%" alt="photo of original map"><img src="figures/map_v0.png" width="45%" alt="image of matplotlib recreation">
